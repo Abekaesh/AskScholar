@@ -36,7 +36,7 @@ AskScholar is a chatbot application designed to help students discover scholarsh
 
 3. **Set Up TiDB Serverless:**
    - Sign up for a TiDB Cloud account and create a serverless cluster.
-   - Follow the [TiDB documentation](https://docs.pingcap.com/tidbcloud) to configure the cluster and obtain connection details.
+   - Follow the [TiDB documentation]([https://docs.pingcap.com/tidbcloud](https://docs.pingcap.com/tidbcloud/vector-search-get-started-using-python)) to configure the cluster and obtain connection details.
    - Update the connection details in the app’s configuration file.
 
 4. **Run the Application:**
